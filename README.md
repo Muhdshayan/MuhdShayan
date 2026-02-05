@@ -31,10 +31,14 @@ I bridge the gap between complex Machine Learning models and seamless user exper
 * **Frameworks:** PyTorch, TensorFlow, LangChain, LlamaIndex.
 * **Vector DBs:** Pinecone, ChromaDB, Milvus.
 
+<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/> <img src="https://www.google.com/search?q=https://img.shields.io/badge/LangChain-1C3C3C%3Fstyle%3Dfor-the-badge%26logo%3Dlangchain%26logoColor%3Dwhite" alt="LangChain"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/> <img src="https://www.google.com/search?q=https://img.shields.io/badge/VectorDB-Pinecone-blueviolet%3Fstyle%3Dfor-the-badge" alt="VectorDB"/> </p>
+
 ### 🌐 Full-Stack Development
-* **Backend:** **FastAPI** (Asynchronous Python), Node.js, RESTful APIs.
-* **Frontend:** **React.js**, Next.js, Tailwind CSS, Redux.
-* **Databases:** PostgreSQL, MongoDB, MySQL, Redis.
+* **Backend:** **FastAPI** (Asynchronous Python),RESTful APIs.
+* **Frontend:** **React.js**,Tailwind CSS.
+* **Databases:** PostgreSQL, MongoDB, MySQL.
+
+<p align="left"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Next.js-000000%3Fstyle%3Dfor-the-badge%26logo%3Dnextdotjs%26logoColor%3Dwhite" alt="Next.js"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> </p>
 
 ### ⚙️ DevOps & Infrastructure
 * **Containerization:** **Docker**, Docker Compose.
